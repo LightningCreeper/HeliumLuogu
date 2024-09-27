@@ -10,4 +10,4 @@
 
 预览：
 
-![](https://cdn.luogu.com.cn/upload/image_hosting/x8tl3msg.png)
+![](https://cdn.luogu.com.cn/upload/image_hosting/itulmgsc.png)
